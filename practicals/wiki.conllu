@@ -1,0 +1,88 @@
+# sent_id = 6
+# text = Kebanyakan molekul DNA terdiri dari dua unting biopolimer yang berpilin satu sama lainnya membentuk heliks ganda.
+
+1	Kebanyakan	_	ADV	_	_	_	_	_	Kebanjakan
+2	molekul	_	NOUN	_	_	_	_	_	molekul
+3	DNA	_	NOUN	_	_	_	_	_	DNA
+4	terdiri	_	VERB	_	_	_	_	_	terdiri
+5	dari	_	ADP	_	_	_	_	_	dari
+6	dua	_	NUM	_	_	_	_	_	dua
+7	unting	_	NOUN	_	_	_	_	_	unting
+8	biopolimer	_	NOUN	_	_	_	_	_	biopolimer
+9	yang	_	PRON	_	_	_	_	_	jang
+10	berpilin	_	ADJ	_	_	_	_	_	berpilin
+11	satu	_	NUM	_	_	_	_	_	satu
+12	sama	_	PRON	_	_	_	_	_	sama
+13	lainnya	_	PRON	_	_	_	_	_	lainnja
+14	membentuk	_	VERB	_	_	_	_	_	membentuk
+15	heliks	_	NOUN	_	_	_	_	_	heliks
+16	ganda	_	NUM	_	_	_	_	_	ganda
+17	.	_	PUNCT	_	_	_	_	_	.
+# sent_id = 7
+# text = Dua unting DNA ini dikenal sebagai polinukleotida karena keduanya terdiri dari satuan-satuan molekul yang disebut nukleotida.
+
+1	Dua	_	NUM	_	_	_	_	_	Dua
+2	unting	_	NOUN	_	_	_	_	_	unting
+3	DNA	_	NOUN	_	_	_	_	_	DNA
+4	ini	_	PRON	_	_	_	_	_	ini
+5	dikenal	_	VERB	_	_	_	_	_	dikenal
+6	sebagai	_	ADP	_	_	_	_	_	sebagai
+7	polinukleotida	_	NOUN	_	_	_	_	_	polinukleotida
+8	karena	_	CCONJ	_	_	_	_	_	karena
+9	keduanya	_	PRON	_	_	_	_	_	keduanja
+10	terdiri	_	VERB	_	_	_	_	_	terdiri
+11	dari	_	ADP	_	_	_	_	_	dari
+12	satuan-satuan	_	NOUN	_	_	_	_	_	satuan-satuan
+13	molekul	_	NOUN	_	_	_	_	_	molekul
+14	yang	_	PRON	_	_	_	_	_	jang
+15	disebut	_	VERB	_	_	_	_	_	disebut
+16	nukleotida	_	NOUN	_	_	_	_	_	nukleotida
+17	.	_	PUNCT	_	_	_	_	_	.
+# sent_id = 9
+# text = Nukleotida-nukelotida ini kemudian tersambung dalam satu rantai ikatan kovalen antara gula satu nukleotida dengan fosfat nukelotida lainnya.
+
+1	Nukleotida-nukelotida	_	NOUN	_	_	_	_	_	Nukleotida-nukelotida
+2	ini	_	PRON	_	_	_	_	_	ini
+3	kemudian	_	ADV	_	_	_	_	_	kemudian
+4	tersambung	_	VERB	_	_	_	_	_	tersambung
+5	dalam	_	PREP	_	_	_	_	_	dalam
+6	satu	_	NUM	_	_	_	_	_	satu
+7	rantai	_	NOUN	_	_	_	_	_	rantai
+8	ikatan	_	NOUN	_	_	_	_	_	ikatan
+9	kovalen	_	NOUN	_	_	_	_	_	kovalen
+10	antara	_	PREP	_	_	_	_	_	antara
+11	gula	_	NOUN	_	_	_	_	_	gula
+12	satu	_	NUM	_	_	_	_	_	satu
+13	nukleotida	_	NOUN	_	_	_	_	_	nukleotida
+14	dengan	_	PREP	_	_	_	_	_	dengan
+15	fosfat	_	NOUN	_	_	_	_	_	fosfat
+16	nukelotida	_	NOUN	_	_	_	_	_	nukelotida
+17	lainnya	_	PRON	_	_	_	_	_	lainnja
+18	.	_	PUNCT	_	_	_	_	_	.
+# sent_id = 10
+# text = Hasilnya adalah rantai punggung gula-fosfat yang berselang-seling.
+
+1	Hasilnya	_	NOUN	_	_	_	_	_	Hasilnja
+2	adalah	_	AUX	_	_	_	_	_	adalah
+3	rantai	_	NOUN	_	_	_	_	_	rantai
+4	punggung	_	NOUN	_	_	_	_	_	punggung
+5	gula-fosfat	_	NOUN	_	_	_	_	_	gula-fosfat
+6	yang	_	PRON	_	_	_	_	_	jang
+7	berselang-seling	_	ADJ	_	_	_	_	_	berselang-seling
+8	.	_	PUNCT	_	_	_	_	_	.
+# sent_id = 13
+# text = Pada setiap gugus gula, terikat salah satu dari empat jenis nukleobasa.
+
+1	Pada	_	PREP	_	_	_	_	_	Pada
+2	setiap	_	ADJ	_	_	_	_	_	setiap
+3	gugus	_	NOUN	_	_	_	_	_	gugus
+4	gula	_	NOUN	_	_	_	_	_	gula
+5	,	_	PUNCT	_	_	_	_	_	,
+6	terikat	_	ADJ	_	_	_	_	_	terikat
+7	salah	_	PRON	_	_	_	_	_	salah
+8	satu	_	PRON	_	_	_	_	_	satu
+9	dari	_	PREP	_	_	_	_	_	dari
+10	empat	_	NUM	_	_	_	_	_	empat
+11	jenis	_	NOUN	_	_	_	_	_	ʤenis
+12	nukleobasa	_	NOUN	_	_	_	_	_	nukleobasa
+13	.	_	PUNCT	_	_	_	_	_	.
