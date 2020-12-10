@@ -1,3 +1,9 @@
-# Project
+# PROJECT DESFinding & Creating Phonological Neighborhoods from a Text
 
-`PROJECT DESCRIPTION HERE`
+These python programs identify phonological neighbors in a text document written in English and group them into neighborhoods if they have a Levenshtein distance of 0 or 1. More specifically, the programs read the text in a file, tokenize each word, identify unique words, translate each word into a phonetic transcription using the International Phonetic Alphabet, and then identify neighbors for each unique word. Neighbors are identified for each word if there is 1 phoneme addition, 1 phoneme subtraction, or no changes (i.e., homophones). 
+
+	There are two programs: “ndcalculator.py” and “ndsingle.py”. The former, ndcalculator.py, will read a text document and group all unique words into one neighborhood. This can provide an overview of the neighborhoods in the document and can allows researchers the ability to identify clusters that they would like to examine in more detail. Special instructions: The name of the text file you want the program to read is written in the terminal command. The file output is “ndgraph.png”.
+
+The other program, “ndsingle.py” (neighborhood density single), behaves in the same way as “ndcalculator.py” but it only graphs the neighborhood of one word. This allows a more detailed look at the words in a particular word’s neighborhood. Special instructions: The name of the text file you want the program to read must be specified in the code, and the neighborhood of the word you want to investigate is written in the terminal command line using English orthography. The file output is “ndgraph_X.png”, where X is the word you typed into the terminal command line. 
+
+Note: “minpairs.txt” is included here as an example text file that the program can be used on.`
